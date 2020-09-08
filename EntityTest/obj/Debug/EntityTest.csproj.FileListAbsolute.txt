@@ -1,0 +1,15 @@
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityTest.exe.config
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityTest.exe
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityTest.pdb
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.dll
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.xml
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.csprojAssemblyReference.cache
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.FrmStart.resources
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.Properties.Resources.resources
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.csproj.GenerateResource.cache
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.csproj.CoreCompileInputs.cache
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.csproj.CopyComplete
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.exe
+C:\Users\pakiz\source\repos\EntityTest\EntityTest\obj\Debug\EntityTest.pdb
